@@ -1,0 +1,15 @@
+/home/marcos-vinicius-gomes/dotnet/helloworld/bin/Debug/net7.0/helloworld
+/home/marcos-vinicius-gomes/dotnet/helloworld/bin/Debug/net7.0/helloworld.deps.json
+/home/marcos-vinicius-gomes/dotnet/helloworld/bin/Debug/net7.0/helloworld.runtimeconfig.json
+/home/marcos-vinicius-gomes/dotnet/helloworld/bin/Debug/net7.0/helloworld.dll
+/home/marcos-vinicius-gomes/dotnet/helloworld/bin/Debug/net7.0/helloworld.pdb
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.csproj.AssemblyReference.cache
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfoInputs.cache
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.AssemblyInfo.cs
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.csproj.CoreCompileInputs.cache
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.dll
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/refint/helloworld.dll
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.pdb
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/helloworld.genruntimeconfig.cache
+/home/marcos-vinicius-gomes/dotnet/helloworld/obj/Debug/net7.0/ref/helloworld.dll
